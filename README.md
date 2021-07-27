@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [Naranja X](https://www.naranjax.com/)
 
-- 🌱 I’m currently learning about **software architecture!**
-
 - 🔨 I’m currently working with [Node.js](https://nodejs.org/en/)
+
+- 🌱 I’m currently learning about **software architecture!**
 
 - 📝 Soon I will write in articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman)
 
