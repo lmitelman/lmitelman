@@ -9,7 +9,7 @@
 
 - 📝 Soon I will write in articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman)
 
-- 📫 How to reach me **lautaromitelman@gmail.com**
+- 📫 Reach me at **lautaromitelman@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
