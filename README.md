@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lautaro!</h1>
 <h3 align="center">A software engineer from Argentina</h3>
 
-- 🔭 I’m currently working at [Naranja X](https://www.naranjax.com/)
+- 🔭 I’m currently working at [Naranja X](https://www.naranjax.com/).
 
-- 🔨 I’m currently working with [Node.js](https://nodejs.org/en/) and [AWS](https://aws.amazon.com)
+- 🔨 I’m currently working with [Node.js](https://nodejs.org/en/) and [AWS](https://aws.amazon.com).
 
 - 🌱 I’m currently learning about **software architecture!**
 
-- 📝 Soon I will write articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman)
+- 📝 Soon I will write articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman).
 
-- 📫 Reach me at **lautaromitelman@gmail.com**
+- 📫 Reach me at **lautaromitelman@gmail.com**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
