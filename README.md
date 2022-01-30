@@ -5,7 +5,7 @@
 
 - 🔨 I’m currently working with [Node.js](https://nodejs.org/en/) and [AWS](https://aws.amazon.com).
 
-- 🌱 I’m currently learning about **software architecture!**
+- 🌱 I’m currently learning about **software architecture**!
 
 - 📝 Soon I will write articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman).
 
