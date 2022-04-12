@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lautaro!</h1>
 
-- 🔭 I’m currently working at [Pomelo](https://pomelo.la/)!
+- 🚀 I’m currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
 - 🔨 I’m currently working with [Node.js](https://nodejs.org/en/) and [AWS](https://aws.amazon.com).
 
-- 🌱 I’m currently learning about **software architecture and its design patterns**!
+- 🔭 I’m currently learning about **software architecture and its design patterns**!
 
 - 📝 Soon I will write articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman).
 
