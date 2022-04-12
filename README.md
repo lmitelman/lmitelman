@@ -2,7 +2,7 @@
 
 - 🚀 I’m currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
-- 🔨 I’m currently working with [Node.js](https://nodejs.org/en/) and [AWS](https://aws.amazon.com).
+- 🔨 I’m currently working with [Node.js](https://nodejs.org/en/), [Nest.js](https://nestjs.com/) and [AWS](https://aws.amazon.com).
 
 - 🔭 I’m currently learning about **software architecture and its design patterns**!
 
