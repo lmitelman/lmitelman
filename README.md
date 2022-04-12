@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lautaro!</h1>
-<h3 align="center">A software engineer from Argentina</h3>
 
-- 🔭 I’m currently working at [Naranja X](https://www.naranjax.com/).
+- 🔭 I’m currently working at [Pomelo](https://pomelo.la/)!
 
 - 🔨 I’m currently working with [Node.js](https://nodejs.org/en/) and [AWS](https://aws.amazon.com).
 
-- 🌱 I’m currently learning about **software architecture**!
+- 🌱 I’m currently learning about **software architecture and its design patterns**!
 
 - 📝 Soon I will write articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman).
 
