@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning about **software architecture and its design patterns**.
 
-- 📝 I am starting to write on [my blog](https://lautaromitelman.vercel.app/)!
+- 📝 I'm starting to write [my blog](https://lautaromitelman.vercel.app/)!
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
 
