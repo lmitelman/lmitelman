@@ -4,9 +4,9 @@
 
 - 🔨 I’m currently working with [Node.js](https://nodejs.org/en/), [Nest.js](https://nestjs.com/) and [AWS](https://aws.amazon.com).
 
-- 🔭 I’m currently learning about **software architecture and its design patterns**!
+- 🔭 I’m currently learning about **software architecture and its design patterns**.
 
-- 📝 Soon I will write articles on [medium.com/@lautaromitelman](medium.com/@lautaromitelman).
+- 📝 I am starting to write on [my blog](https://lautaromitelman.vercel.app/)!
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
 
