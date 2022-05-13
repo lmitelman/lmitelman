@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently learning about **software architecture and its design patterns**.
 
-- 📝 I'm starting to write [my blog](https://lautaromitelman.vercel.app/)!
-
 - 📫 Reach me at **lautaromitelman@gmail.com**.
 
 <h3 align="left">Languages and Tools:</h3>
