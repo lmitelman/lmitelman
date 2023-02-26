@@ -4,7 +4,7 @@
 
 - 🔨 I’m currently working with [Node.js](https://nodejs.org/en/), [Nest.js](https://nestjs.com/) and [AWS](https://aws.amazon.com).
 
-- 🔭 I’m currently learning about **software architecture and its design patterns**.
+- ✍🏻 I’am currently writing about my day-to-day learning experiences, at [lmitelman.com](https://lmitelman.com).
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
 
