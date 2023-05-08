@@ -2,7 +2,7 @@
 
 - 🚀 I’m currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
-- 🔨 I’m currently working with [Node.js](https://nodejs.org/en/), [Nest.js](https://nestjs.com/) and [AWS](https://aws.amazon.com).
+- 🔨 I’m currently working with [Node.js](https://nodejs.org/en), [Go](https://go.dev) and [AWS](https://aws.amazon.com).
 
 - ✍🏻 I’am currently writing about my day-to-day learning experiences, at [lmitelman.com](https://lmitelman.com).
 
@@ -11,8 +11,9 @@
 </br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23276DC3.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-50B7E0.svg?style=for-the-badge&logo=go&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EC7211?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
