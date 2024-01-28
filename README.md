@@ -2,9 +2,9 @@
 
 - 🚀 I’m currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
-- 🔨 I’m currently working with [Node.js](https://nodejs.org/en), [Nest.js](https://nestjs.com/) and [AWS](https://aws.amazon.com).
+- 🔨 I’m currently working with [Node.js](https://nodejs.org/en), [Nest.js](https://nestjs.com/), [Go](https://go.dev/) and [AWS](https://aws.amazon.com).
 
-- ✍🏻 I’am currently writing about my day-to-day learning experiences, at [lmitelman.com](https://lmitelman.com) and [medium.com/@lmitelman](https://medium.com/@lmitelman).
+- ✍🏻 I’am currently writing about my day-to-day learning experiences, at [lautaromitelman.com](https://lautaromitelman.com).
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
 
