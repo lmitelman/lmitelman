@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lautaro!</h1>
+<h2 align="center">Hi 👋, I'm Lautaro!</h2>
 
-- 🚀 I’m currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
+- 🚀 Currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
-- 🔨 I’m currently working with [Node.js](https://nodejs.org/en), [Kotlin](https://kotlinlang.org/), [Go](https://go.dev/) and [AWS](https://aws.amazon.com).
-
-- ✍🏻 I’m currently writing about my day-to-day learning experiences, at [lautaromitelman.com](https://lautaromitelman.com).
+- ✍🏻 Writing about my day-to-day learning experiences, at [lautaromitelman.com](https://lautaromitelman.com).
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
-
 </br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23276DC3.svg?style=for-the-badge&logo=typescript&logoColor=white)
