@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm Lautaro!</h2>
 
+- 💻 Specializing in designing scalable, cloud-based solutions, microservices, and event-driven architectures.
+
 - 🚀 Currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
 - ✍🏻 Writing about my day-to-day learning experiences, at [lautaromitelman.com](https://lautaromitelman.com).
