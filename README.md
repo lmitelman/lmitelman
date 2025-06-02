@@ -4,7 +4,9 @@
 
 - 🚀 Currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
 
-- ✍🏻 Writing about my day-to-day learning experiences, at [lautaromitelman.com](https://lautaromitelman.com).
+- ✍🏻 Writing about my day-to-day engineering challenges at [lautaromitelman.com](https://lautaromitelman.com).
+
+- 🌱 Sharing personal reflections and life lessons on [medium.com/@lmitelman](https://medium.com/@lmitelman).
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
 </br>
