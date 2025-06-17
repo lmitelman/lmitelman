@@ -2,7 +2,7 @@
 
 - 🙋🏼‍♂️ Software Engineer specializing in scalable cloud solutions, microservices, and event-driven architectures.
 
-- 🚀 Currently working at [Pomelo](https://pomelo.la/), were we are building the new fintech infrastructure for Latin America.
+- 🚀 Currently working at [Strike]([https://pomelo.la/](https://strike.sh/)), were we are building a platform for continuous pentesting with the world's top ethical hackers.
 
 - ✍🏻 Writing about my day-to-day engineering challenges at [lautaromitelman.com](https://lautaromitelman.com).
 
