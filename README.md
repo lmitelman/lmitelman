@@ -2,7 +2,7 @@
 
 - 🙋🏼‍♂️ Software Engineer specializing in scalable cloud solutions, microservices, and event-driven architectures.
 
-- 🚀 Currently working at [Strike](https://strike.sh/), were we are building a platform for continuous pentesting with the world's top ethical hackers.
+- 🚀 Currently working at [Strike](https://strike.sh/), were we are building a premium platform for continuous pentesting.
 
 - ✍🏻 Writing about my day-to-day engineering challenges at [lautaromitelman.com](https://lautaromitelman.com).
 
