@@ -9,6 +9,7 @@
 - 🌱 Sharing personal reflections and life lessons on [medium.com/@lmitelman](https://medium.com/@lmitelman).
 
 - 📫 Reach me at **lautaromitelman@gmail.com**.
+
 </br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23276DC3.svg?style=for-the-badge&logo=typescript&logoColor=white)
